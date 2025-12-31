@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/lion-logo.png" alt="Löwen Labs" width="120">
+</p>
+
 # Löwen Labs Audio
 
 Experimental web-based audio plugins. Beta testing program for synthesizers and audio tools that run directly in your browser.
@@ -5,6 +9,9 @@ Experimental web-based audio plugins. Beta testing program for synthesizers and 
 ## Current Betas
 
 ### DB-303 — Mutant Diode Bass
+
+<img src="img/db303-cover.png" alt="DB-303 Screenshot" width="600">
+
 Circuit-modelled diode ladder with screaming nonlinearities.
 - Multimode morphing filters
 - DevilFish mods
@@ -13,6 +20,9 @@ Circuit-modelled diode ladder with screaming nonlinearities.
 🔗 [Try DB-303](https://db303.pages.dev)
 
 ### KlangwerX — Drum Synth
+
+<img src="img/klangwerx-cover.png" alt="KlangwerX Screenshot" width="600">
+
 Inspired by 90s legends like Stomper and JOMOX.
 - Analog-style drum synthesis
 - One-shot WAV export
@@ -21,6 +31,9 @@ Inspired by 90s legends like Stomper and JOMOX.
 🔗 [Try KlangwerX](https://klangwerx.pages.dev)
 
 ### Funky Monk — Formant Synth
+
+<img src="img/funkymonk-cover.png" alt="FunkyMonk Screenshot" width="600">
+
 A polyphonic formant synthesizer with XY vowel control.
 - Classic formant synthesis with extra controls
 - Trance Gate
@@ -29,6 +42,9 @@ A polyphonic formant synthesizer with XY vowel control.
 🔗 [Try FunkyMonk](https://funkymonk.pages.dev)
 
 ### BAWD — Binaural Beat Generator
+
+<img src="img/bawd-cover.png" alt="BAWD Screenshot" width="600">
+
 Tune your brain with binaural beats.
 - Binaural frequency control (0-20 Hz beat)
 - Pink noise + amplitude modulation
