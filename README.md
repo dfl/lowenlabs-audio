@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/lion-logo.png" alt="Löwen Labs" width="120">
+  <a href="https://lowenlabs.org"><img src="img/lion-logo.png" alt="Löwen Labs" width="120"></a>
 </p>
 
 # Löwen Labs Audio
@@ -10,7 +10,7 @@ Experimental web-based audio plugins. Beta testing program for synthesizers and 
 
 ### DB-303 — Mutant Diode Bass
 
-<img src="img/db303-cover.png" alt="DB-303 Screenshot" width="600">
+<a href="https://db303.pages.dev"><img src="img/db303-cover.png" alt="DB-303 Screenshot" width="600"></a>
 
 Circuit-modelled diode ladder with screaming nonlinearities.
 - Multimode morphing filters
@@ -21,7 +21,7 @@ Circuit-modelled diode ladder with screaming nonlinearities.
 
 ### KlangwerX — Drum Synth
 
-<img src="img/klangwerx-cover.png" alt="KlangwerX Screenshot" width="600">
+<a href="https://klangwerx.pages.dev"><img src="img/klangwerx-cover.png" alt="KlangwerX Screenshot" width="600"></a>
 
 Inspired by 90s legends like Stomper and JOMOX.
 - Analog-style drum synthesis
@@ -32,7 +32,7 @@ Inspired by 90s legends like Stomper and JOMOX.
 
 ### Funky Monk — Formant Synth
 
-<img src="img/funkymonk-cover.png" alt="FunkyMonk Screenshot" width="600">
+<a href="https://funkymonk.pages.dev"><img src="img/funkymonk-cover.png" alt="FunkyMonk Screenshot" width="600"></a>
 
 A polyphonic formant synthesizer with XY vowel control.
 - Classic formant synthesis with extra controls
@@ -43,7 +43,7 @@ A polyphonic formant synthesizer with XY vowel control.
 
 ### BAWD — Binaural Beat Generator
 
-<img src="img/bawd-cover.png" alt="BAWD Screenshot" width="600">
+<a href="https://bawd.pages.dev"><img src="img/bawd-cover.png" alt="BAWD Screenshot" width="600"></a>
 
 Tune your brain with binaural beats.
 - Binaural frequency control (0-20 Hz beat)
