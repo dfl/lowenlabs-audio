@@ -119,6 +119,7 @@ section h2 {
   border-radius: var(--radius);
   overflow: hidden;
   transition: transform 0.2s, border-color 0.2s;
+  text-decoration: none;
 }
 
 .plugin-card:hover {
